@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://img.onl/9sKpzN" alt="Project logo"></a>
+ <img src="https://img.onl/n6QZ0J" alt="Project logo"></a>
 </p>
 <h2 align="center">RAPIDCUTS</h2>
 
