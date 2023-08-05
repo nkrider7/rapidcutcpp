@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img src="https://img.onl/n6QZ0J" alt="Project logo"></a>
 </p>
-<h2 align="center">RAPIDCUTS</h2>
+<h2 align="center">C++ Roadmap by Rapidcuts</h2>
 
 <div align="center">
 
@@ -13,3 +13,13 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
+
+## 📝 Table of Contents
+
+- [Choosing a Programming Language](https://www.linkedin.com/feed/)
+- [Roadmaps Placement](#idea)
+- [Future Scope](#future_scope)
+- [Technology Stack](#tech_stack)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgments)
+
